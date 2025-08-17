@@ -1,6 +1,6 @@
 # Streamly: Product Metrics Decomposition and Bayesian Churn Modeling
 
-This project simulates a structured analytics workflow for **Streamly**, a fictional subscription-based streaming platform. It demonstrates how product data scientists can combine behavioral metrics with causal inference methods to evaluate feature impact, optimize retention, and guide pricing strategy.
+This project simulates a structured analytics workflow for **Streamly** (a fictional subscription-based streaming platform). It demonstrates how product data scientists can combine behavioral metrics with causal inference methods to evaluate feature impact, optimize retention, and guide pricing strategy.
 
 ---
 
